@@ -13,21 +13,14 @@ by Peter Bruce, Andrew Bruce, and [Peter Gedeck](https://www.amazon.com/Peter-Ge
 - Errata: http://oreilly.com/catalog/errata.csp?isbn=9781492072942
 
 ## Online
+View the notebooks online:
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/learndatascienceworld/maths4DS101/tree/master/)
 
 Excecute the notebooks in Binder: 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/learndatascienceworld/maths4DS101/HEAD)
 
  This can take some time if the binder environment needs to be rebuilt. 
- 
- 
 
 
 
-## Python
-We recommend to use a conda environment to run the Python code. 
-```
-conda create -n sfds python
-conda activate sfds
-conda env update -n sfds -f environment.yml
-```
 
