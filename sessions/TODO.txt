@@ -1,0 +1,6 @@
+Finish the module with:
+
+Lab 6- Statistical Machine Learning I
+Lab 7- Statistical Machine Learning II
+Lab 8- Unsupervised Learning I
+Lab 9- Unsupervised Learning II
